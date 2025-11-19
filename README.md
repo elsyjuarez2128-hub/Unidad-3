@@ -12,6 +12,5 @@ MI PRIMERA VENTANA SWING|Ejercicios Guiados|[Unidad3 MI PRIMERA VENTANA SWING.pd
 # Activida de Guiados Arbol
 | Archivo | Descripcion | Enlace |
 |---------|-------------|--------|
-MI PRIMERA VENTANA SWING|Ejercicios Guiados|[Ejercicios guiados de arboles.pdf](https://github.com/user-attachments/files/23622131/Ejercicios.guiados.de.arboles.pdf)|
-
+MI PRIMERA VENTANA SWING|Ejercicios Guiados|https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf|
 
