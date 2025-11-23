@@ -2,14 +2,12 @@
 # Unidad 3  Estrutura de Datos Avanzados
 # Actividades Ejercicios Guiados Swing Actividad 1
 
-| Archivo | Descripcion | Enlace |
+| Archivo | Descripción | Enlace |
 |---------|-------------|--------|
-MI PRIMERA VENTANA SWING| Guiados|[Unidad3 MI PRIMERA VENTANA SWING.pdf(https://github.com/user-attachments/files/23556165/Unidad3.MI.PRIMERA.VENTANA.SWING.pdf)](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Unidad3%20MI%20PRIMERA%20VENTANA%20SWING.pdf)|
+| MI PRIMERA VENTANA SWING | Guiados | [Abrir documento](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Unidad3%20MI%20PRIMERA%20VENTANA%20SWING.pdf) |
 
-# Actividad 2 
-# Activida de Guiados Arbol
-
-| Archivo | Descripcion | Enlace |
+# Actividad Definicion de Arboles 
+| Archivo | Descripción | Enlace |
 |---------|-------------|--------|
-Definicion de Arboles | Guiados|https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf|
+| Definición de Árboles | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
 
