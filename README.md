@@ -14,3 +14,7 @@
 |---------|-------------|--------|
 | Definición de Árboles | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
 
+# Actividad 3 Ejercicios Guiados Arbol Binario
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| Arbol Binario | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
