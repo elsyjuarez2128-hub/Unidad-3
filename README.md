@@ -17,4 +17,4 @@
 # Actividad 3 Ejercicios Guiados Arbol Binario
 | Archivo | Descripción | Enlace |
 |---------|-------------|--------|
-| Arbol Binario | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
+| Arbol Binario | Guiados | [Ver documento][(https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios%20Guiados%20de%20Arbol%20Binario.pdf)] |
