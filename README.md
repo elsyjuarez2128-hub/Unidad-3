@@ -20,8 +20,7 @@
 | Arbol Binario | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Arbol%20Binario%20Unidad%203%20.pdf)|
 
 # Actividad 4 Ejercicos Guiados Diccionario
-
 | Archivo | Descripción | Enlace |
 |---------|-------------|--------|
-| Arbol Binario | Guiados | [Ver documento]|
+| Diccionario Nearpods | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Diccionario.pdf)|
 
