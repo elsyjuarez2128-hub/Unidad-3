@@ -32,7 +32,7 @@
 # Actividad 4 Ejercicos Guiados Diccionario
 | Archivo | Descripción | Enlace |
 |---------|-------------|--------|
-| Diccionario Nearpods | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Diccionario.pdf)|
+| Diccionario Nearpods | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Conjuntos.pdf)|
 |
 
 
