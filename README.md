@@ -9,10 +9,13 @@
 | MI PRIMERA VENTANA SWING | Guiados | [Abrir documento](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Unidad3%20MI%20PRIMERA%20VENTANA%20SWING.pdf) |
 
 
-# 🌳Actividad 2 Ejercicios Guiados Definicion de Arboles 
-| Archivo | Descripción | Enlace |
-|---------|-------------|--------|
-| Definición de Árboles | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
+# 🌳 Actividad 2 — Ejercicios Guiados: Definición de Árboles
+
+| Archivo                  | Descripción | Enlace |
+|--------------------------|-------------|--------|
+| Definición de Árboles    | Guiados     | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
+| Nearpods Arbol              | Guiados     | <img src="https://github.com/user-attachments/assets/3c6f7e69-8211-458e-9080-78021c0093da" width="120"> |
+
 
 # 🌳Actividad 3 Ejercicios Guiados Arbol Binario
 | Archivo | Descripción | Enlace |
