@@ -14,7 +14,7 @@
 | Archivo                  | Descripción | Enlace |
 |--------------------------|-------------|--------|
 | Definición de Árboles    | Guiados     | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Ejercicios.guiados.de.arboles.pdf) |
-| Nearpods Arbol              | Guiados     | <img src="https://github.com/user-attachments/assets/3c6f7e69-8211-458e-9080-78021c0093da" width="120"> |
+| Nearpods Arbol              | Guiados     | <img src="https://github.com/user-attachments/assets/3c6f7e69-8211-458e-9080-78021c0093da" width="160"> |
 
 
 # 🌳Actividad 3 Ejercicios Guiados Arbol Binario
