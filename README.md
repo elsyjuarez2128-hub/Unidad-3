@@ -40,4 +40,8 @@
 |---------|-------------|--------|
 | Estrutura de Datos | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Mapa%20Mental.pdf)|
 
+# Actividad 6 Ejercicios Guiados Diccionario
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| Diccinario| Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Arbol%20Binario%20Unidad%203%20.pdf)|
 
