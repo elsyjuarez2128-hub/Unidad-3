@@ -7,6 +7,8 @@
 | Archivo | Descripción | Enlace |
 |---------|-------------|--------|
 | MI PRIMERA VENTANA SWING | Guiados | [Abrir documento](https://github.com/elsyjuarez2128-hub/U2GB-Ejercicios-Guiados-2/blob/main/Unidad3%20MI%20PRIMERA%20VENTANA%20SWING.pdf) |
+| Cuadro de Dialogo | Guiados     |<img src="https://github.com/user-attachments/assets/de928a51-f4b7-4ed4-88f2-1445a9247444" alt="Captura de pantalla 2025-12-03 150433" width="150" /> |
+
 
 
 # 🌳 Actividad 2 — Ejercicios Guiados: Definición de Árboles
