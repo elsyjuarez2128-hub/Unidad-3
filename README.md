@@ -33,5 +33,9 @@
 | Conjuntos Nearpods | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Conjuntos.pdf)|
 
 
+# 🧭Actividad  Mapa Mental 
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| Estrutura de Datos | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Diccionario.pdf)|
 
 
