@@ -36,6 +36,6 @@
 # 🧭Actividad  Mapa Mental 
 | Archivo | Descripción | Enlace |
 |---------|-------------|--------|
-| Estrutura de Datos | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Diccionario.pdf)|
+| Estrutura de Datos | Guiados | [Ver documento](https://github.com/elsyjuarez2128-hub/Unidad-3/blob/main/Mapa%20Mental.pdf)|
 
 
